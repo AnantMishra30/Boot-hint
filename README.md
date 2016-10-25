@@ -1,5 +1,3 @@
-# Boot-hint
-
 <h1>Bootstrap Code Hinting and Autocompletion in Notepad++</h1>
 <h1>Instalization</h1>
 <ul>
