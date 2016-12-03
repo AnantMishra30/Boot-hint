@@ -1,5 +1,5 @@
 <h1>Bootstrap Code Hinting and Autocompletion in Notepad++</h1>
-<h1>Instalization</h1>
+<h1>Installation</h1>
 <ul>
 <li>Download the file <code>html.xml</code></li>
 <li>Locate your Notepad++ installation directory</li>
